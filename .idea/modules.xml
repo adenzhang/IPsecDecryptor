@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IPsecDecrypt/IPsecDecrypt.iml" filepath="$PROJECT_DIR$/IPsecDecrypt/IPsecDecrypt.iml" />
-      <module fileurl="file://$PROJECT_DIR$/IPsecDecryption.iml" filepath="$PROJECT_DIR$/IPsecDecryption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IPsecDecryptor.iml" filepath="$PROJECT_DIR$/IPsecDecryptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
